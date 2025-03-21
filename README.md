@@ -16,26 +16,19 @@ Odpalenie Programu: <br/>
 <img src="https://i.imgur.com/5h3eZiV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wybór produktów:  <br/>
-<img src="https://i.imgur.com/6QjJ2wm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Zła odpowiedz, podpowiedz by zgadywac wyższe liczby:  <br/>
+<img src="https://i.imgur.com/canMgaI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Usuniecie ostatnio dodanego produktu: <br/>
-<img src="https://i.imgur.com/LhCM1Nc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Zła odpowiedz, podpowiedz by zgadywać mniejsze liczby: <br/>
+<img src="https://i.imgur.com/GYYqHqE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Dodanie zniżki:  <br/>
-<img src="https://i.imgur.com/oDdEcyr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Prawidłowa odpowiedz:  <br/>
+<img src="https://i.imgur.com/zzDnevH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Usunięcie zniżki:  <br/>
-<img src="https://i.imgur.com/LhCM1Nc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Płatność:  <br/>
-<img src="https://i.imgur.com/ZAPDpuz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+
 
 </p>
 
