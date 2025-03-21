@@ -1,4 +1,4 @@
-<h1>Python Punkt Sprzedaży</h1>
+<h1>Zgadywanie liczb</h1>
 
 <h2>Info</h2>
 Program sklada sie z kodu w Pythonie, program posiada GUI z przyciskami slużącymi do interakcji i wprowadzenia danych do programu by sfinalizować sprzedaż. Ten program służy do sprzedaży produktow w sklepie przez wybór produktow wyznanych w programie, nastepnie w menu zostanie pokazany wybrany produkt z ceną oraz iloscia, gdy zostanie wybrane pare produktów program podsumuję totalną cene do zapłaty, gdy już mamy totalną cene program pozwala na dodanie znizki do sumy. 
