@@ -1,7 +1,7 @@
 <h1>Zgadywanie liczb</h1>
 
 <h2>Info</h2>
-Program sklada sie z kodu w Pythonie, program posiada GUI z przyciskami slużącymi do interakcji i wprowadzenia danych do programu by sfinalizować sprzedaż. Ten program służy do sprzedaży produktow w sklepie przez wybór produktow wyznanych w programie, nastepnie w menu zostanie pokazany wybrany produkt z ceną oraz iloscia, gdy zostanie wybrane pare produktów program podsumuję totalną cene do zapłaty, gdy już mamy totalną cene program pozwala na dodanie znizki do sumy. 
+Gra sklada sie z prostego kodu w Pythonie, gdy odpalimy gre jesteśmy powitani przez wiadomosc oraz poinformowani że gra wybrała liczbe od 1 do 100. W tym momencie gra pozwala nam na zgadywanie tej liczby przez wpisywanie liczb, gdy wpiszemy liczbę która jest o wiele mniejsza niż wybrana liczba przez gre, dostaniemy wiadomość że wybrana liczba jest niepoprawna, i musimy zgadywać wyżej. Jednak jeśli wpiszemy liczbe która jest za duża, gra znów powie nam wybrana liczba jest niepoprawna, tylko tym razem musimy zgadywać niżej. A jeśli zgadniemy poprawnie, gra nam pogratuluję i też poinformuje ile razy zgadywalismy. 
 <br />
 
 
@@ -12,7 +12,7 @@ Program sklada sie z kodu w Pythonie, program posiada GUI z przyciskami slużąc
 <h2>Pokaz Programu:</h2>
 
 <p align="center">
-Odpalenie Programu: <br/>
+Odpalenie gry: <br/>
 <img src="https://i.imgur.com/5h3eZiV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
